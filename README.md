@@ -79,12 +79,8 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 Grupo: Bianca Carvalho, Gabriel Cruz, Isabella Gimenez, Leticia Prado
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-=======
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/biaacarvalhoo27/projetofinal_python/blob/main/LICENSE) para detalhes.
