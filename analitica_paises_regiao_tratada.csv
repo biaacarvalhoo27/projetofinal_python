@@ -1,0 +1,250 @@
+Cod,Nome Pais,Capital,Região
+196.0,Cyprus,Nicosia,Europe
+232.0,Eritrea,Asmara,Africa
+430.0,Liberia,Monrovia,Africa
+60.0,Bermuda,Hamilton,Americas
+336.0,Vatican City,Vatican City,Europe
+184.0,Cook Islands,Avarua,Oceania
+706.0,Somalia,Mogadishu,Africa
+894.0,Zambia,Lusaka,Africa
+862.0,Venezuela,Caracas,Americas
+795.0,Turkmenistan,Ashgabat,Asia
+8.0,Albania,Tirana,Europe
+191.0,Croatia,Zagreb,Europe
+826.0,United Kingdom,London,Europe
+729.0,Sudan,Khartoum,Africa
+626.0,Timor-Leste,Dili,Asia
+178.0,Republic of the Congo,Brazzaville,Africa
+31.0,Azerbaijan,Baku,Asia
+404.0,Kenya,Nairobi,Africa
+16.0,American Samoa,Pago Pago,Oceania
+384.0,Ivory Coast,Yamoussoukro,Africa
+686.0,Senegal,Dakar,Africa
+704.0,Vietnam,Hanoi,Asia
+222.0,El Salvador,San Salvador,Americas
+4.0,Afghanistan,Kabul,Asia
+663.0,Saint Martin,Marigot,Americas
+428.0,Latvia,Riga,Europe
+320.0,Guatemala,Guatemala City,Americas
+414.0,Kuwait,Kuwait City,Asia
+678.0,São Tomé and Príncipe,São Tomé,Africa
+417.0,Kyrgyzstan,Bishkek,Asia
+616.0,Poland,Warsaw,Europe
+316.0,Guam,Hagåtña,Oceania
+288.0,Ghana,Accra,Africa
+440.0,Lithuania,Vilnius,Europe
+51.0,Armenia,Yerevan,Asia
+832.0,Jersey,Saint Helier,Europe
+308.0,Grenada,St. George's,Americas
+762.0,Tajikistan,Dushanbe,Asia
+231.0,Ethiopia,Addis Ababa,Africa
+732.0,Western Sahara,El Aaiún,Africa
+504.0,Morocco,Rabat,Africa
+630.0,Puerto Rico,San Juan,Americas
+162.0,Christmas Island,Flying Fish Cove,Oceania
+554.0,New Zealand,Wellington,Oceania
+96.0,Brunei,Bandar Seri Begawan,Asia
+254.0,French Guiana,Cayenne,Americas
+570.0,Niue,Alofi,Oceania
+642.0,Romania,Bucharest,Europe
+744.0,Svalbard and Jan Mayen,Longyearbyen,Europe
+112.0,Belarus,Minsk,Europe
+591.0,Panama,Panama City,Americas
+120.0,Cameroon,Yaoundé,Africa
+203.0,Czechia,Prague,Europe
+652.0,Saint Barthélemy,Gustavia,Americas
+300.0,Greece,Athens,Europe
+466.0,Mali,Bamako,Africa
+474.0,Martinique,Fort-de-France,Americas
+250.0,France,Paris,Europe
+586.0,Pakistan,Islamabad,Asia
+604.0,Peru,Lima,Americas
+52.0,Barbados,Bridgetown,Americas
+304.0,Greenland,Nuuk,Americas
+666.0,Saint Pierre and Miquelon,Saint-Pierre,Americas
+148.0,Chad,N'Djamena,Africa
+348.0,Hungary,Budapest,Europe
+174.0,Comoros,Moroni,Africa
+50.0,Bangladesh,Dhaka,Asia
+772.0,Tokelau,Fakaofo,Oceania
+242.0,Fiji,Suva,Oceania
+156.0,China,Beijing,Asia
+170.0,Colombia,Bogotá,Americas
+92.0,British Virgin Islands,Road Town,Americas
+12.0,Algeria,Algiers,Africa
+462.0,Maldives,Malé,Asia
+458.0,Malaysia,Kuala Lumpur,Asia
+136.0,Cayman Islands,George Town,Americas
+724.0,Spain,Madrid,Europe
+372.0,Ireland,Dublin,Europe
+233.0,Estonia,Tallinn,Europe
+600.0,Paraguay,Asunción,Americas
+858.0,Uruguay,Montevideo,Americas
+710.0,South Africa,Pretoria,Africa
+662.0,Saint Lucia,Castries,Americas
+548.0,Vanuatu,Port Vila,Oceania
+246.0,Finland,Helsinki,Europe
+752.0,Sweden,Stockholm,Europe
+86.0,British Indian Ocean Territory,Diego Garcia,Africa
+422.0,Lebanon,Beirut,Asia
+840.0,United States,"Washington, D.C.",Americas
+152.0,Chile,Santiago,Americas
+574.0,Norfolk Island,Kingston,Oceania
+500.0,Montserrat,Plymouth,Americas
+36.0,Australia,Canberra,Oceania
+84.0,Belize,Belmopan,Americas
+328.0,Guyana,Georgetown,Americas
+496.0,Mongolia,Ulan Bator,Asia
+798.0,Tuvalu,Funafuti,Oceania
+214.0,Dominican Republic,Santo Domingo,Americas
+226.0,Equatorial Guinea,Malabo,Africa
+659.0,Saint Kitts and Nevis,Basseterre,Americas
+68.0,Bolivia,Sucre,Americas
+524.0,Nepal,Kathmandu,Asia
+260.0,French Southern and Antarctic Lands,Port-aux-Français,Antarctic
+158.0,Taiwan,Taipei,Asia
+204.0,Benin,Porto-Novo,Africa
+100.0,Bulgaria,Sofia,Europe
+498.0,Moldova,Chișinău,Europe
+833.0,Isle of Man,Douglas,Europe
+64.0,Bhutan,Thimphu,Asia
+116.0,Cambodia,Phnom Penh,Asia
+28.0,Antigua and Barbuda,Saint John's,Americas
+332.0,Haiti,Port-au-Prince,Americas
+132.0,Cape Verde,Praia,Africa
+268.0,Georgia,Tbilisi,Asia
+108.0,Burundi,Gitega,Africa
+44.0,Bahamas,Nassau,Americas
+480.0,Mauritius,Port Louis,Africa
+434.0,Libya,Tripoli,Africa
+454.0,Malawi,Lilongwe,Africa
+484.0,Mexico,Mexico City,Americas
+748.0,Eswatini,Mbabane,Africa
+598.0,Papua New Guinea,Port Moresby,Oceania
+212.0,Dominica,Roseau,Americas
+438.0,Liechtenstein,Vaduz,Europe
+643.0,Russia,Moscow,Europe
+376.0,Israel,Jerusalem,Asia
+702.0,Singapore,Singapore,Asia
+800.0,Uganda,Kampala,Africa
+703.0,Slovakia,Bratislava,Europe
+776.0,Tonga,Nuku'alofa,Oceania
+784.0,United Arab Emirates,Abu Dhabi,Asia
+175.0,Mayotte,Mamoudzou,Africa
+740.0,Suriname,Paramaribo,Americas
+860.0,Uzbekistan,Tashkent,Asia
+682.0,Saudi Arabia,Riyadh,Asia
+818.0,Egypt,Cairo,Africa
+380.0,Italy,Rome,Europe
+450.0,Madagascar,Antananarivo,Africa
+540.0,New Caledonia,Nouméa,Oceania
+124.0,Canada,Ottawa,Americas
+850.0,United States Virgin Islands,Charlotte Amalie,Americas
+584.0,Marshall Islands,Majuro,Oceania
+478.0,Mauritania,Nouakchott,Africa
+270.0,Gambia,Banjul,Africa
+780.0,Trinidad and Tobago,Port of Spain,Americas
+690.0,Seychelles,Victoria,Africa
+392.0,Japan,Tokyo,Asia
+76.0,Brazil,Brasília,Americas
+760.0,Syria,Damascus,Asia
+654.0,"Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa
+834.0,Tanzania,Dodoma,Africa
+20.0,Andorra,Andorra la Vella,Europe
+364.0,Iran,Tehran,Asia
+768.0,Togo,Lomé,Africa
+470.0,Malta,Valletta,Europe
+410.0,South Korea,Seoul,Asia
+882.0,Samoa,Apia,Oceania
+276.0,Germany,Berlin,Europe
+562.0,Niger,Niamey,Africa
+,,,
+388.0,Jamaica,Kingston,Americas
+558.0,Nicaragua,Managua,Americas
+324.0,Guinea,Conakry,Africa
+660.0,Anguilla,The Valley,Americas
+248.0,Åland Islands,Mariehamn,Europe
+56.0,Belgium,Brussels,Europe
+620.0,Portugal,Lisbon,Europe
+208.0,Denmark,Copenhagen,Europe
+608.0,Philippines,Manila,Asia
+876.0,Wallis and Futuna,Mata-Utu,Oceania
+40.0,Austria,Vienna,Europe
+624.0,Guinea-Bissau,Bissau,Africa
+492.0,Monaco,Monaco,Europe
+516.0,Namibia,Windhoek,Africa
+581.0,United States Minor Outlying Islands,Washington DC,Americas
+188.0,Costa Rica,San José,Americas
+70.0,Bosnia and Herzegovina,Sarajevo,Europe
+,,,
+508.0,Mozambique,Maputo,Africa
+638.0,Réunion,Saint-Denis,Africa
+499.0,Montenegro,Podgorica,Europe
+408.0,North Korea,Pyongyang,Asia
+580.0,Northern Mariana Islands,Saipan,Oceania
+804.0,Ukraine,Kyiv,Europe
+368.0,Iraq,Baghdad,Asia
+239.0,South Georgia,King Edward Point,Antarctic
+24.0,Angola,Luanda,Africa
+694.0,Sierra Leone,Freetown,Africa
+583.0,Micronesia,Palikir,Oceania
+192.0,Cuba,Havana,Americas
+796.0,Turks and Caicos Islands,Cockburn Town,Americas
+688.0,Serbia,Belgrade,Europe
+218.0,Ecuador,Quito,Americas
+234.0,Faroe Islands,Tórshavn,Europe
+,,,
+275.0,Palestine,Ramallah,Asia
+792.0,Turkey,Ankara,Asia
+296.0,Kiribati,South Tarawa,Oceania
+398.0,Kazakhstan,Nur-Sultan,Asia
+292.0,Gibraltar,Gibraltar,Europe
+352.0,Iceland,Reykjavik,Europe
+585.0,Palau,Ngerulmud,Oceania
+634.0,Qatar,Doha,Asia
+756.0,Switzerland,Bern,Europe
+258.0,French Polynesia,Papeetē,Oceania
+612.0,Pitcairn Islands,Adamstown,Oceania
+400.0,Jordan,Amman,Asia
+104.0,Myanmar,Naypyidaw,Asia
+764.0,Thailand,Bangkok,Asia
+535.0,Caribbean Netherlands,Kralendijk,Americas
+533.0,Aruba,Oranjestad,Americas
+312.0,Guadeloupe,Basse-Terre,Americas
+566.0,Nigeria,Abuja,Africa
+48.0,Bahrain,Manama,Asia
+418.0,Laos,Vientiane,Asia
+166.0,Cocos (Keeling) Islands,West Island,Oceania
+262.0,Djibouti,Djibouti,Africa
+90.0,Solomon Islands,Honiara,Oceania
+,,,
+356.0,India,New Delhi,Asia
+674.0,San Marino,City of San Marino,Europe
+442.0,Luxembourg,Luxembourg,Europe
+534.0,Sint Maarten,Philipsburg,Americas
+238.0,Falkland Islands,Stanley,Americas
+140.0,Central African Republic,Bangui,Africa
+72.0,Botswana,Gaborone,Africa
+531.0,Curaçao,Willemstad,Americas
+831.0,Guernsey,St. Peter Port,Europe
+578.0,Norway,Oslo,Europe
+266.0,Gabon,Libreville,Africa
+716.0,Zimbabwe,Harare,Africa
+426.0,Lesotho,Maseru,Africa
+705.0,Slovenia,Ljubljana,Europe
+32.0,Argentina,Buenos Aires,Americas
+854.0,Burkina Faso,Ouagadougou,Africa
+887.0,Yemen,Sana'a,Asia
+180.0,DR Congo,Kinshasa,Africa
+512.0,Oman,Muscat,Asia
+360.0,Indonesia,Jakarta,Asia
+520.0,Nauru,Yaren,Oceania
+646.0,Rwanda,Kigali,Africa
+807.0,North Macedonia,Skopje,Europe
+528.0,Netherlands,Amsterdam,Europe
+788.0,Tunisia,Tunis,Africa
+728.0,South Sudan,Juba,Africa
+340.0,Honduras,Tegucigalpa,Americas
+670.0,Saint Vincent and the Grenadines,Kingstown,Americas
+144.0,Sri Lanka,Sri Jayawardenepura Kotte,Asia
+344.0,Hong Kong,City of Victoria,Asia
