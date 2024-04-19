@@ -60,7 +60,6 @@ import sqlite3
 import pandas as pd
 ```
 
-
 # Leitura dos arquivos CSV
 
 ### 7. Tratamento e Renomeação das Colunas nos DataFrames
@@ -103,11 +102,11 @@ O próximo passo é salvar todas as bases tratadas e novos arquivos csv, além d
 ### 14. Junção das tabelas
 Este paço tem como intenção juntar as 3 tabelas em uma só, criando um único documento com todas as colunas e linhas relevantes.
 
-# primeiro join (regiao e moda) usando a chave "cod"
+#primeiro join (regiao e moda) usando a chave "cod"
 
-# segundo join (merged_df com area) usando a chave "cod"
+#segundo join (merged_df com area) usando a chave "cod"
 
-# Exibir o DataFrame resultante
+#Exibir o DataFrame resultante
 
 ### 15. Criando a tabela no banco de dados 
 
