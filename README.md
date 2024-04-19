@@ -57,7 +57,8 @@ O código importa a biblioteca `sqlite3` para trabalhar com o SQLite e a bibliot
 
 ```python
 import sqlite3
-import pandas as pd```
+import pandas as pd
+```
 
 
 # Leitura dos arquivos CSV
